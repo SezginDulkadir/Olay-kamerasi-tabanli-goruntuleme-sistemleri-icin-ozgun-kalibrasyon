@@ -68,7 +68,7 @@ Bu yöntem sayesinde:
 Aşağıda, olayların biriktirilmesi sonucu oluşturulan örnek görseller yer almaktadır:
 
 <p align="center">
-  <img src="Görüntüler./olay_verilerinin_görselleştirilmesi.gif" width="600" alt="Olay Verisi Görselleştirme GIF"/>
+  <img src="Görüntüler./olay_verisinin_görselleştirilmesi.gif" width="600" alt="Olay Verisi Görselleştirme GIF"/>
 </p>
 
 
