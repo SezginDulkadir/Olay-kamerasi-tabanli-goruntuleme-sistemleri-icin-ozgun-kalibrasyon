@@ -43,6 +43,10 @@ Aşağıda işlenmiş bazı olay verilerine ait görselleştirme örneklerini bu
   <img src="images/example2.png" width="400" alt="Örnek Kare 2"/>
 </p>
 
+<p align="center">
+  <img src="resimler/visualization.gif" width="600" alt="Olay Verisi GIF Görselleştirme"/>
+</p>
+
 ---
 
 ## 📑 Atıf
