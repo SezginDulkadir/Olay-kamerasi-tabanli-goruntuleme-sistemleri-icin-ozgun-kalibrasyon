@@ -53,6 +53,23 @@ Aşağıda işlenmiş bazı olay verilerine ait görselleştirme örneklerini bu
   </tr>
 </table>
 
+---
+
+## 🎥 Olay Verilerinin Kareleştirilmesi
+
+Olay kameraları, geleneksel kare tabanlı kameraların aksine yalnızca sahnedeki değişiklikleri zamana bağlı olarak kaydeder.  
+Bu proje kapsamında olay verileri, belirli sayıda (örneğin 500 olay) gruplandırılarak kare (frame) formatında yeniden yapılandırılmıştır.
+
+Bu yöntem sayesinde:
+- Olaylar zamana bağlı değil, olay yoğunluğuna bağlı olarak biriktirilir.
+- Görselleştirme ve kalibrasyon adımları için daha dengeli veri setleri oluşturulur.
+- Düşük aydınlatma veya hızlı hareket gibi zorlu koşullarda bile tutarlı kareler elde edilir.
+
+Aşağıda, olayların biriktirilmesi sonucu oluşturulan örnek görseller yer almaktadır:
+
+<p align="center">
+  <img src="Görüntüler./olay_verilerinin_görselleştirilmesi.gif" width="600" alt="Olay Verisi Görselleştirme GIF"/>
+</p>
 
 
 ---
