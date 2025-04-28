@@ -38,15 +38,21 @@ Her bir klasörde şu içerikler bulunmaktadır:
 ## 📈 Örnek Görselleştirmeler
 Aşağıda işlenmiş bazı olay verilerine ait görselleştirme örneklerini bulabilirsiniz:
 
-<p align="center">
-  <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.png" width="600" alt="Örnek Kare 1"/>
-  <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.png" width="600" alt="Örnek Kare 2"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Düzeltilmemiş Olay Verisi</strong><br>
+      <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.png" width="300" alt="Düzeltilmemiş Kare"/><br>
+      <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.gif" width="300" alt="Düzeltilmemiş GIF"/>
+    </td>
+    <td align="center">
+      <strong>Düzeltilmiş Olay Verisi</strong><br>
+      <img src="Görüntüler./Düzeltilmiş_Olay_Verisi.png" width="300" alt="Düzeltilmiş Kare"/><br>
+      <img src="Görüntüler./Düzeltilmiş_Olay_Verisi.gif" width="300" alt="Düzeltilmiş GIF"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.gif" width="600" alt="Olay Verisi GIF Görselleştirme"/>
-  <img src="Görüntüler./Düzeltilmiş_Olay_Verisi.gif" width="600" alt="Olay Verisi GIF Görselleştirme"/>
-</p>
 
 ---
 
