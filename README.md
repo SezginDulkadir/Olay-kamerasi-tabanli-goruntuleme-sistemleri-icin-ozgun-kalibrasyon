@@ -42,13 +42,14 @@ Aşağıda işlenmiş bazı olay verilerine ait görselleştirme örneklerini bu
   <tr>
     <td align="center">
       <strong>Düzeltilmemiş Olay Verisi</strong><br>
-      <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.png" width="300" alt="Düzeltilmemiş Kare"/><br>
       <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.gif" width="300" alt="Düzeltilmemiş GIF"/>
+      <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.png" width="300" alt="Düzeltilmemiş Kare"/><br>
+
     </td>
     <td align="center">
       <strong>Düzeltilmiş Olay Verisi</strong><br>
-      <img src="Görüntüler./Düzeltilmiş_Olay_Verisi.png" width="300" alt="Düzeltilmiş Kare"/><br>
       <img src="Görüntüler./Düzeltilmiş_Olay_Verisi.gif" width="300" alt="Düzeltilmiş GIF"/>
+      <img src="Görüntüler./Düzeltilmiş_Olay_Verisi.png" width="300" alt="Düzeltilmiş Kare"/><br>
     </td>
   </tr>
 </table>
