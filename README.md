@@ -44,7 +44,8 @@ Aşağıda işlenmiş bazı olay verilerine ait görselleştirme örneklerini bu
 </p>
 
 <p align="center">
-  <img src="resimler/visualization.gif" width="600" alt="Olay Verisi GIF Görselleştirme"/>
+  <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.gif" width="600" alt="Olay Verisi GIF Görselleştirme"/>
+  <img src="Görüntüler./Düzeltilmiş_Olay_Verisi.gif" width="600" alt="Olay Verisi GIF Görselleştirme"/>
 </p>
 
 ---
