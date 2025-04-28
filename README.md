@@ -39,8 +39,8 @@ Her bir klasörde şu içerikler bulunmaktadır:
 Aşağıda işlenmiş bazı olay verilerine ait görselleştirme örneklerini bulabilirsiniz:
 
 <p align="center">
-  <img src="images/example1.png" width="400" alt="Örnek Kare 1"/>
-  <img src="images/example2.png" width="400" alt="Örnek Kare 2"/>
+  <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.png" width="600" alt="Örnek Kare 1"/>
+  <img src="Görüntüler./Düzeltilmemiş_Olay_Verisi.png" width="600" alt="Örnek Kare 2"/>
 </p>
 
 <p align="center">
