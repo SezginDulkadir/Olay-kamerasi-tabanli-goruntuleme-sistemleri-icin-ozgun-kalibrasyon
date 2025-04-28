@@ -56,13 +56,9 @@ Aşağıda işlenmiş bazı olay verilerine ait görselleştirme örneklerini bu
 
 
 ---
+## 📬 İletişim
 
-## 📑 Atıf
-Bu çalışma veya veri seti kullanıldığında aşağıdaki atıf formatının kullanılması rica olunur:
-```bibtex
-@misc{event_camera_calibration_123E693,
-  title={Olay Kamerası Tabanlı Görüntüleme Sistemleri İçin Özgün Kalibrasyon Yöntemi Geliştirilmesi ve Uygulanması},
-  author={Gültekin, Gökhab Koray and Dulkadir, Sezgin},
-  year={2025},
-  note={Proje No: 123E693}
-}
+Her türlü soru, öneri veya iş birliği için aşağıdaki e-posta adresi üzerinden iletişime geçebilirsiniz:
+
+- 📧 Sezgin Dulkadir: [sezgindulkadir@aybu.edu.tr](mailto:sezgindulkadir@aybu.edu.tr)
+
