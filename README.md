@@ -3,7 +3,7 @@
 
 # 📋 Proje Bilgileri
 - **Proje Numarası:** 123E693
-- **Proje Yürütücüsü:** Dr. Öğr. Üyesi Gökhab Koray Gültekin
+- **Proje Yürütücüsü:** Dr. Öğr. Üyesi Gökhan Koray Gültekin
 - **Araştırmacı:** Sezgin Dulkadir
 
 ---
